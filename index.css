@@ -1,0 +1,49 @@
+body{
+	background-image: url(fondo6.png);
+}
+
+.etiqueta-a{
+    width: 265px;
+    color: black;
+    background-color: white;
+    border-radius: 2em;
+    border: solid 5px ;
+}
+.li-de-funciones-de-la-web{
+  color: black;
+  width: 350px;
+  border: 5px solid  black;
+  background-color: white;
+  font-family: cursive;
+  border-radius: 2em;
+
+}
+
+
+.h1-bienvenido{
+  border-radius: 2em;
+	width: 150px;
+   color: black !important;
+   background-color: white;
+   border: solid 5px black ;
+}
+.div-del-nav{
+  border-radius: 1em;
+	 background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/11/15-Presentation-Background-Examples12.jpeg);
+}
+.h2-funciones-de-la-web{
+  border-radius: 2em;
+	 color: black;
+	 font-family: cursive, georgia;
+     height: ;
+     width: 265px ;
+     font-weight: 30px;
+     background-color: white;
+     border: solid 5px black;
+}
+
+/*.comentario{
+  width: 390px;
+   border-radius: 2em;
+   border:solid 5px black;
+}
