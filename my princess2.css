@@ -1,0 +1,56 @@
+body {
+	 background-image: url(fondo10.png);
+	 display: inline-block;
+}
+
+.primer-parrafo
+
+    {
+	width: ;
+	background-color: white;
+	border-radius: 2em;
+	border: solid 5px #20ff20;
+	font-family: cursive;
+	display: inline-block;
+	
+}
+
+
+.parrafo-2{
+	width: 400px;
+	background-color: white;
+	border-radius: 2em;
+	border: solid 5px #20ff20;
+	font-family: cursive;
+	display: inline-block;
+	
+}
+.parrafo-3{
+	width: 400px;
+	background-color: white;
+	border-radius: 2em;
+	border: solid 5px #20ff20;
+	font-family: cursive;0
+	display: inline-block;
+
+}
+.parrafo-4{
+	  width: 400px;
+	background-color: white;
+	border-radius: 2em;
+	border: solid 5px #20ff20;
+	font-family: cursive;0
+	display: inline-block;
+
+	
+
+}
+.parrafo-final{
+	  width: ;
+	background-color: white;
+	border-radius: 2em;
+	border: solid 5px #20ff20;
+	font-family: cursive;0
+	display: inline-block;
+
+}
