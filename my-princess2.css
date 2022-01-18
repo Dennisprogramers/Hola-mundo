@@ -1,0 +1,47 @@
+body{
+	background-image: url(fondo.jpg);
+}
+
+.parrafo1{
+	background-color: white;
+	border-radius: 4px;
+	width: 255px; 
+	color: purple;
+	border: 5px solid white;
+
+}
+.parrafo2{
+	 color: white;
+	 background-color:white;
+	 width: 600px;
+	 color: purple;
+	 border-radius: 5px;
+	 border:3px dashed white;
+}
+.parrafo3{
+	color: white;
+	background-color: white;
+	width: 600px;
+	color: purple;
+	border-radius: 5px;
+	border:4px dashed white;
+
+}
+.parrafo4{
+	color:white;
+	background-color: white;
+	width: 600px;
+	color: green;
+	border-radius: 5px;
+	border:5px dashed white;
+}
+.video{
+		color:white;
+	background-color: white;
+	width: 600px;
+	color: mediumpurple;
+	border-radius: 5px;
+	border:5px dashed white;
+}
+
+}
