@@ -9,3 +9,17 @@ let saludo = nombre ;
 let pregunta = "¿como estas? ";
 frace = hola + pregunta +nombre;
 document.write(frace)
+ 
+    var saludo = "";
+    var tiempo = new Date().getHours();
+
+if(tiempo <12){
+    saludo = "Buenos dias Espero tengas un lindo dia ";
+}else if(tiempo < 18){
+    saludo ="Buenas tardes";
+}else{
+    saludo = "Buenas noches Espero allas tenido un lindo dia ";
+
+
+ document.write (saludo +  nombre); 
+}
